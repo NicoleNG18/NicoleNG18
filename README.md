@@ -3,8 +3,8 @@ Hi, I am Nicole Georgieva <img src="https://media.giphy.com/media/hvRJCLFzcasrR4
 ![GitHub User's stars](https://img.shields.io/github/stars/NicoleNG18?style=social)
 
 ![Java](https://img.shields.io/badge/java-orange?style=for-the-badge&logo=java&logoColor=white)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikol-georgieva-500b3522b)
-![Instagram](https://img.shields.io/badge/instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nikol-georgieva-500b3522b)
+[![Instagram](https://img.shields.io/badge/instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/___nicoleeg___/)
 ![Facebook](https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)
 
 About me
