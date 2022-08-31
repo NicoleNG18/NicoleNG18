@@ -1,4 +1,4 @@
-Hi, I am Nicole Georgieva <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px" height="24px">
+Hi, I am Nicole Georgieva 
 
 ![GitHub User's stars](https://img.shields.io/github/stars/NicoleNG18?style=social)
 
