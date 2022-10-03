@@ -10,7 +10,7 @@ Hi, I am Nicole Georgieva
 About me
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-I am 16 years old girl from Kyustendil, Bulgaria. :woman:
+I am 17 years old girl from Kyustendil, Bulgaria. :woman:
 
 I am currently studying in 11th grade.  In school, I extensively study Math, Informatics and ICT. These are  also
 my favourite subjects. 💻
