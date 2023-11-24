@@ -15,10 +15,11 @@ I'm 18 years old girl from Kyustendil, Bulgaria. :woman:
 I am currently studying in 12th grade.  In school, I extensively study Math, Informatics and ICT. These are  also
 my favourite subjects. 💻
 
-I have fundamental knowledge at C# and C++ and I’m currently focused on Java. I study at Software University (SoftUni) and gain new skills every day.
+I have fundamental knowledge at C# and I’m currently focused on Java. I study at Software University (SoftUni) and gain new skills every day.
 Like all students, I also have other interests. Ten years ago, I started training volleyball and that’s my biggest passion. I also love listening to music, doing puzzles and taking walks in the forest. :musical_score:
 
-From my first touch to it, programming grabbed me. I like creating new things and developing new features. All technologies are very interesting to me and I want to learn more and more, because the more you learn, the cooler things you do. :grinning:
+From my first touch to it, programming grabbed me. I like creating new things and developing features. All technologies are very interesting to me and I want to learn more and more, because the more you learn, the cooler things you do. :grinning:
 
-During my Java WEB module at SoftUni I made my first mini website called Food Delivery. If you want, go and take a look at it from the repository below.
+During my Java WEB module at SoftUni I made my first mini website called Food Delivery developed with Spring, Thymeleaf and MySQL. If you want, go and take a look at it from the repository below.
+
 
