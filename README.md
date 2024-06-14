@@ -20,3 +20,6 @@ During my Java WEB module at SoftUni I made my first mini website called Food De
 In 2024, I participated in the National Olympiad in Information Technologies (NOIT) and advanced to the final round. There, I presented my second website, PE Scores, and received a grade of 5.50.
 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicoleNG18&theme=radical)
+
+
