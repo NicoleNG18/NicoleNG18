@@ -10,7 +10,7 @@ Hi, I am Nicole Georgieva
 About me
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-I'm 18 years old girl from Kyustendil, Bulgaria. :woman:
+I'm 19 years old girl from Kyustendil, Bulgaria. :woman:
 
 I have fundamental knowledge at C# and I’m currently focused on Java. I studied at Software University (SoftUni).
 Like all students, I also have other interests. Ten years ago, I started training volleyball and that’s my biggest passion. I also love listening to music, doing puzzles and taking walks in the forest. :musical_score:
