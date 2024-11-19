@@ -12,7 +12,7 @@ About me
 
 I'm 19 years old girl from Kyustendil, Bulgaria. :woman:
 
-I have fundamental knowledge at C# and I’m currently focused on Java. I studied at Software University (SoftUni).
+I am a passionate web programmer with a solid foundation in various programming languages and frameworks. My expertise includes Java, HTML, CSS, and JavaScript, and I have hands-on experience with the Spring Framework for building Java-based applications. Additionally, I am proficient in MySQL for database management. Currently, I am expanding my knowledge by studying Information Systems at FMI Sofia. This educational journey allows me to continuously develop my technical skills and deepen my understanding of software development principles.
 Like all students, I also have other interests. Ten years ago, I started training volleyball and that’s my biggest passion. I also love listening to music, doing puzzles and taking walks in the forest. :musical_score:
 
 During my Java WEB module at SoftUni I made my first mini website called Food Delivery, developed with Spring, Thymeleaf and MySQL. If you want, go and take a look at it from the repository below.
