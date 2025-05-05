@@ -9,19 +9,14 @@ Hi, I am Nicole Georgieva
 
 About me
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+In the past year, I discovered low-code platforms like Eclipse Dirigible — and it completely changed the way I approach building software. Fast, flexible, and creative, it felt like unlocking a new dimension in development.
 
-I'm 19 years old girl from Kyustendil, Bulgaria. :woman:
+Before that, I was already deeply passionate about web programming. I’ve worked with Java, HTML, CSS, JavaScript, and MySQL, and have hands-on experience using the Spring Framework to build full-stack applications.
 
-Over the past year, I discovered the power and potential of low-code platforms— particularly Eclipse Dirigible— and quickly fell in love with them. This new area of development opened up exciting opportunities for building applications faster and more efficiently, complementing my background as a passionate web programmer.
+Right now, I’m studying Information Systems at FMI Sofia. The academic journey has helped me ground my skills in theory while continuing to build in practice.
 
-I have a solid foundation in a range of programming languages and frameworks, including Java, C++ HTML, CSS, and JavaScript. I’ve gained hands-on experience working with the Spring Framework for building robust Java-based applications, and I’m proficient in using MySQL for effective database management.
+I created my first mini website, Food Delivery, during the Java Web module at SoftUni, using Spring, Thymeleaf, and MySQL. In 2024, I reached the finals of the National Olympiad in Information Technologies (NOIT), presenting my second project, PE Scores.
 
-Currently, I’m expanding my knowledge through my studies in Information Systems at FMI Sofia. This academic path is helping me deepen my technical expertise and gain a broader understanding of software development principles and best practices.
-
-Outside of programming, I’m a well-rounded individual with a love for sports and creative hobbies. I’ve been playing volleyball for over ten years— my greatest passion. I also enjoy listening to music, solving puzzles, and walking in the forest to recharge. 🎵
-
-One of the projects I’m most proud of is my first mini website, Food Delivery, which I developed during the Java Web module at SoftUni. It was built using Spring, Thymeleaf, and MySQL. Feel free to check it out in my GitHub repository below!
-
-In 2024, I participated in the National Olympiad in Information Technologies (NOIT) and advanced to the final round. There, I presented my second website, PE Scores, and received a grade of 5.50.
-
+Outside the code editor, you’ll probably find me playing volleyball (over ten years strong), solving puzzles, listening to music, or walking in the forest.
+This space reflects what I build, what I learn, and what keeps me curious.
 
