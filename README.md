@@ -4,7 +4,6 @@ Hi, I am Nicole Georgieva
 
 ![Java](https://img.shields.io/badge/java-orange?style=for-the-badge&logo=java&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nikol-georgieva-500b3522b)
-[![Instagram](https://img.shields.io/badge/instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/___nicoleeg___/)
 [![Facebook](https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100009486555368)
 
 About me
