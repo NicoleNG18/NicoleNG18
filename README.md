@@ -20,7 +20,3 @@ Outside the code editor, you'll probably find me playing volleyball 🏐 (over t
 This space reflects what I build, what I learn, and what keeps me curious.
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoleNG18&layout=compact&theme=github_dark&hide_border=true" height="150"/>
-</p>
