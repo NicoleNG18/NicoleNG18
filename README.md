@@ -3,8 +3,6 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/NicoleNG18?style=social)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikol-georgieva-500b3522b)
 
----
-
 ## About me
 
 In the past years, I discovered low-code platforms like Eclipse Dirigible — and it completely changed the way I approach building software. Fast, flexible, and creative, it felt like unlocking a new dimension in development.
@@ -18,5 +16,3 @@ I created my first mini website, **Food Delivery**, during the Java Web module a
 Outside the code editor, you'll probably find me playing volleyball 🏐 (over ten years strong), solving puzzles, listening to music, or walking in the forest.
 
 This space reflects what I build, what I learn, and what keeps me curious.
-
----
